@@ -1,0 +1,44 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+/src/main/resources/rebel.xml
+
+### VS Code ###
+.vscode/
+
+### OS / Environment files ###
+.DS_Store
+Thumbs.db
+*.env
+.env
+*.log
+
+### Local Secret Properties ###
+application-local.properties
+**/application-local.properties
+
